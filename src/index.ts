@@ -1,4 +1,4 @@
-import { Button } from '@vaadin/button/vaadin-lit-button.js';
+import { Button } from '@vaadin/button/vaadin-button.js';
 import { SemVer } from 'semver';
 
 const ver = '1.0.0';
